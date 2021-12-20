@@ -22,7 +22,11 @@ It is better to use composition instead of type hierarchies.
 
 ![Image of Interface Segregation Principle throught delegation](/quite-solid/assets/img/isp-delegate.png "Image of Interface Segregation Principle throught delegation")
 
+ISP throught delegation ↑
+
 ![Image of Interface Segregation Principle throught multiple inheritance](/quite-solid/assets/img/isp-multi-inheritance.png "Image of Interface Segregation Principle throught multiple inheritance")
+
+ISP throught multiple inheritance ↑
 
 Clients should not have to implement interfaces that they don’t use.
 
